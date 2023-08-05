@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm NADIM,KHALID MAHMUD</h1>
+<h3 align="center">CSE Student from American International University Bangladesh
+</h3>
 <h3 align="center">Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadim249&label=Profile%20views&color=0e75b6&style=flat" alt="nadim249" /> </p>
