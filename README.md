@@ -25,7 +25,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/khalid-mahmud-9a1b2a272/" target="blank">
+  <a href="https://linkedin.com/in/khalid-mahmud-nadim-249s/" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://fb.com/khalid.nadim.24259" target="blank">
