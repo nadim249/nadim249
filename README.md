@@ -1,7 +1,5 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e
 )]
-[Developer Front End.webm](https://github.com/user-attachments/assets/aeed120e-5e6c-4e29-a8eb-bc1953b33870)
-
 <h1 align="center">Hi 👋, I'm NADIM,KHALID MAHMUD</h1>
 <h3 align="center">CSE Student from American International University, Bangladesh
 </h3>
