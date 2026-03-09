@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="MasterHead" width="100%" />
+  <!--<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="MasterHead" width="100%" />-->
 
   <br />
 
@@ -42,7 +42,7 @@
   
   <p><strong>Frontend, Mobile & Web Technologies</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,bootstrap,tailwind,android&perline=10" alt="Frontend and Mobile" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,bootstrap,tailwind,androidstudio&perline=10" alt="Frontend and Mobile" />
   </a>
 
   <p><strong>Backend, Databases & Tools</strong></p>
