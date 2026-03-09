@@ -23,10 +23,9 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 3rd-year CSE student at **American International University, Bangladesh**.
+- 🎓 4th-year CSE student at **American International University, Bangladesh**.
 - 🧠 Deeply interested in **Artificial Intelligence, Machine Learning, Computer Vision**, and **Data Structures & Algorithms**.
 - 💻 Currently building modern web and mobile applications using **React, Next.js, C#, .NET Core MVC, Kotlin, and Android**.
-- 🔬 Working on a research paper regarding motion sickness mitigation via mobile application & developing face detection systems.
 - 🏆 Active in **Competitive Programming** to sharpen my problem-solving skills.
 - 📫 How to reach me: **[mahmoudnadim47@gmail.com](mailto:mahmoudnadim47@gmail.com)**
 
